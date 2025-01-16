@@ -23,6 +23,8 @@
 [![Telegram](https://img.shields.io/badge/-@alex_villaq-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alex_villaq)
 
 [![](https://visitcount.itsvg.in/api?id=avillaq&label=&color=1&icon=7&pretty=false)](https://visitcount.itsvg.in)
+[![](https://badges.pufler.dev/visits/avillaq/badge-it)](https://badges.pufler.dev)
+
 
 <!-- STACK -->
 <div align="center" width="100">
