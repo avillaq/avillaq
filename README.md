@@ -22,7 +22,8 @@
 [![Gmail](https://img.shields.io/badge/-villafuertequispealex-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:villafuertequispealex@gmail.com)
 [![Telegram](https://img.shields.io/badge/-@alex_villaq-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alex_villaq)
 
-[![](https://visitcount.itsvg.in/api?id=avillaq&label=&color=1&icon=7&pretty=false)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=avillaq&label=&color=1&icon=7&pretty=false)](https://visitcount.itsvg.in)-->
+<p> <img src="https://komarev.com/ghpvc/?username=avillaq&label=Profile%20views&color=0e75b6&style=flat" alt="Alexander-VQ" /> </p>
 <!-- [![](https://badges.pufler.dev/visits/avillaq/badge-it)](https://badges.pufler.dev) -->
 
 
