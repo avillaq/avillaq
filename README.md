@@ -140,12 +140,11 @@
 <div align="center" width="200">
   <h2>📊 GitHub Stats</h2>
   
-  ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=avillaq&show_icons=true&theme=cobalt&count_private=true)
+  ![](https://github-readme-stats.vercel.app/api?username=avillaq&show_icons=true&theme=cobalt&count_private=true)
   [![](https://github-readme-streak-stats.herokuapp.com/?user=avillaq&theme=material-palenight)](https://github.com/avillaq)
   </br>
-  [![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=avillaq&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=avillaq&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div> 
-
 <div align="center" width="100">
   <h2>🏆 GitHub Trophies</h2>
   
