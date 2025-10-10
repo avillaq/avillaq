@@ -12,7 +12,7 @@
   
   <div align="left">
     
-  I'm Alexander! I'm a student of System Engineering at National University of San Agustin (UNSA) in Peru. I'm aiming to become a skilled Backend🖥️ and Frontend🎨 Developer, with a growing interest in machine learning🤖 and cybersecurity🛡️.
+  I'm Alexander! I'm a student of System Engineering at National University of San Agustin (UNSA) in Peru. I'm aiming to become a skilled Backend🖥️ and Frontend🎨 Developer, with a growing interest in data science🤖 and cybersecurity🛡️.
   <br>
   I'm passionate about making open-source more accessible, creating software💻 and tools to help people🤝, and building a community.
   </div>
@@ -32,15 +32,31 @@
   <h2>🛠️ Stack</h2>
   <!-- Languages -->
  <h3>Languages</h3>
+  
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    width="60px"
+    alt="Javascript">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    width="60px"
+    alt="Javascript">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+    width="60px"
+    alt="HTML5">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+    width="60px"
+    alt="css3">
+    &nbsp;&nbsp;&nbsp;&nbsp;
    <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
     width="60px"
     alt="python">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-    width="60px"
-    alt="c">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
@@ -57,25 +73,25 @@
     width="60px"
     alt="Php">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    width="60px"
-    alt="Javascript">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-    width="60px"
-    alt="HTML5">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
-    width="60px"
-    alt="css3">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Frameworks -->
   </br>
   <h3>Frameworks</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+    width="60px"
+    alt="NextJs">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+    width="60px"
+    alt="Angular">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
+    width="60px"
+    alt="React">
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
     width="60px"
@@ -91,16 +107,6 @@
     width="60px"
     alt="flask">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
-    width="60px"
-    alt="Angular">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
-    width="60px"
-    alt="React">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Storages -->
   </br>
@@ -115,6 +121,7 @@
     width="60px"
     alt="MongoDB">
     &nbsp;&nbsp;&nbsp;&nbsp;
+    
   
   <!-- Tools -->
   </br>
